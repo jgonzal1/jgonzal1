@@ -1,10 +1,10 @@
 👋 Hi, I’m [@jgonzal1](https://github.com/jgonzal1)
 
-👀 I’m interested in nature preservation and web development
+👀 I’m interested in nature preservation, web development, and real-estate investing
 
-🌱 I’m currently learning [React.JS](https://www.codecademy.com/courses/react-101/) (Updated 2021/05)
+🌱 I’m currently learning [React.JS](https://www.codecademy.com/courses/react-101/) and Real Estate Investing (Updated 2023)
 
-💞️ I’m looking to collaborate on nature preservation projects
+💞️ I’m looking to collaborate on nature preservation projects and real estate investing
 
 📫 How to reach me: e-mail / [LinkedIn](https://www.linkedin.com/in/javigbe)
 
