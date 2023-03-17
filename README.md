@@ -1,6 +1,8 @@
 👋 Hi, I’m [@jgonzal1](https://github.com/jgonzal1)
 
-👀 I’m interested in nature preservation, web development, and real-estate investing
+👀 I’m interested in nature preservation, web development, and real-estate investing.
+The "nodejs" archived repo is currently a big private repo "thingy"
+that will be released any time soon e.e, will keep you posted!
 
 🌱 I’m currently learning [React.JS](https://www.codecademy.com/courses/react-101/) and Real Estate Investing (Updated 2023)
 
