@@ -1,3 +1,5 @@
+<style>img{display:inline}</style>
+
 <h3>👋 Hi, I’m [@jgonzal1](https://github.com/jgonzal1)</h3>
 
 <h3>🌱 I’m currently learning [React.JS](https://www.codecademy.com/courses/react-101/) and Real Estate Investing (Updated 2023)</h3>
