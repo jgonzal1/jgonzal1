@@ -11,13 +11,13 @@
 <h3>👀 I’m interested in nature preservation, web development, and real-estate investing</h3>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"
-><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-276DC3.svg?logo=javascript&logoColor=white"
-><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-276DC3.svg?logo=javascript&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
 <h3>💻 Software and Tools</h3>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"
-><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       
 <h3>🔥 Github Stats and Activity</h3>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
